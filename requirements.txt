@@ -56,7 +56,7 @@ googleappenginepipeline==1.9.22.1  # via -r requirements.in, googleappenginemapr
 graphy==1.0.0             # via -r requirements.in, googleappenginemapreduce
 grpc-google-iam-v1==0.12.3  # via google-cloud-bigtable, google-cloud-pubsub, google-cloud-spanner, google-cloud-tasks
 grpcio-gcp==0.2.2         # via apache-beam, google-api-core
-grpcio==1.32.0            # via apache-beam, google-api-core, googleapis-common-protos, grpc-google-iam-v1, grpcio-gcp
+grpcio==1.53.2            # via apache-beam, google-api-core, googleapis-common-protos, grpc-google-iam-v1, grpcio-gcp
 hdfs==2.5.8               # via apache-beam
 html5lib==1.0.1           # via -r requirements.in
 httplib2==0.19.0          # via apache-beam, google-api-python-client, google-apitools, google-auth-httplib2, oauth2client
