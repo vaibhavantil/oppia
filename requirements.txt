@@ -71,7 +71,7 @@ oauth2client==3.0.0       # via apache-beam, google-apitools
 packaging==20.4           # via -r requirements.in, bleach
 pbr==5.5.1                # via mock
 protobuf==3.13.0          # via apache-beam, google-api-core, googleapis-common-protos
-pyarrow==0.16.0           # via apache-beam
+pyarrow==14.0.1           # via apache-beam
 pyasn1-modules==0.2.8     # via google-auth, oauth2client
 pyasn1==0.4.8             # via oauth2client, pyasn1-modules, rsa
 pydot==1.4.1              # via apache-beam
