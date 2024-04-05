@@ -76,7 +76,7 @@ pyasn1-modules==0.2.8     # via google-auth, oauth2client
 pyasn1==0.4.8             # via oauth2client, pyasn1-modules, rsa
 pydot==1.4.1              # via apache-beam
 pylatexenc==2.6           # via -r requirements.in
-pymongo==3.11.3           # via apache-beam
+pymongo==4.6.3           # via apache-beam
 pyparsing==2.4.7          # via packaging, pydot
 python-dateutil==2.8.1    # via apache-beam
 pytz==2020.1              # via apache-beam, fastavro, google-api-core, google-cloud-firestore
