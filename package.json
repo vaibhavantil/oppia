@@ -115,7 +115,7 @@
     "@angular/animations": "^10.2.2",
     "@angular/cdk": "^10.2.2",
     "@angular/common": "^10.2.2",
-    "@angular/compiler": "^10.2.2",
+    "@angular/compiler": "^19.2.18",
     "@angular/core": "^11.0.5",
     "@angular/fire": "^6.1.0",
     "@angular/forms": "^10.2.2",
